@@ -1,5 +1,7 @@
 
 <!-- Typing animation -->
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1500&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;I+love+coding;Let's+build+cool+stuff" alt="Typing animation" />
 </p>
