@@ -1,41 +1,103 @@
-## Hi there 👋
 
-<!--
-**MD-Zubayer/MD-Zubayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Md Zubayer</h1>
-<h3 align="center">A backend developer from bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-zubayer&label=Profile%20views&color=0e75b6&style=flat" alt="md-zubayer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-zubayer" alt="md-zubayer" /></a> </p>
-
-- 🌱 I’m currently learning **dajngo, gunicorn, postgreSql, minio, redis, nginx**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MD-Zubayer](https://github.com/MD-Zubayer)
-
-- 📫 How to reach me **junayed75489@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1500&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;I+love+coding;Let's+build+cool+stuff" alt="Typing animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EF7F9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Zubayer;Backend+Developer+from+Bangladesh;Python+%7C+Django+%7C+Redis+%7C+PostgreSQL+%7C+Nginx" alt="Typing animation" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-zubayer&show_icons=true&locale=en&layout=compact" alt="md-zubayer" /></p>
+<h1 align="center">Hi 👋, I'm Md Zubayer</h1>
+<h3 align="center">A passionate backend developer from Bangladesh 🇧🇩</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-zubayer&show_icons=true&locale=en" alt="md-zubayer" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-zubayer&" alt="md-zubayer" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-zubayer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning: **Django, Gunicorn, PostgreSQL, Redis, MinIO, Nginx**
+- 👨‍💻 All of my projects are available at: [github.com/MD-Zubayer](https://github.com/MD-Zubayer)
+- 📫 Email: **junayed75489@gmail.com**
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,mongodb,sqlite,html,css,js,tailwind,linux,git,github,bash,nginx,postman,vscode" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MD-Zubayer&theme=flat&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-zubayer&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-zubayer&layout=compact&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=md-zubayer&theme=radical" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MD-Zubayer/MD-Zubayer/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+## 🎯 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/md-zubayer?ext=heatmap" alt="Leetcode stats" />
+</p>
+
+---
+
+## 📰 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## ⏰ Time in Bangladesh
+
+<p align="center">
+  🕒 Bangladesh Standard Time (BST): <strong>UTC+6</strong>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:junayed75489@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/MD-Zubayer"><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-zubayer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 💬 Motto
+
+> “Code. Debug. Repeat. Make it better every time.”
+
